@@ -8,7 +8,7 @@ import cv2 as cv
 
 img = cv.imread(filename="")
 """
-TIP:- You can check about cv.imread() fuction in readingimg folder . Thank You.
+TIP:- You can check about cv.imread() fuction in readingimg.py file . Thank You.
 """
 
 cv.imshow(winname="", img)
